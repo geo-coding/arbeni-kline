@@ -1,6 +1,7 @@
 src/
 *.bak
 *.dwl
+*.err
 *.dwl2
 *.log
 *~$*
