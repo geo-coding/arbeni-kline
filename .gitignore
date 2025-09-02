@@ -1,4 +1,6 @@
 src/
 *.bak
+*.dwl
+*.dwl2
 *.log
 *~$*
