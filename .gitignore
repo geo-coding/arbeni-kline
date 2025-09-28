@@ -1,4 +1,5 @@
 src/
+export/
 *.bak
 *.dwl
 *.err
